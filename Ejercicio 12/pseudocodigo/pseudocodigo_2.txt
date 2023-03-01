@@ -1,0 +1,13 @@
+algoritmo_raiz_entero
+Entrada
+    n:ENTERO
+Resultado:ENTERO
+Precondición    
+    n ≠ NULO
+realización
+    si
+        n<0
+    entonces
+        Resultado ←"No existe raiz para el número "
+        sino
+        
